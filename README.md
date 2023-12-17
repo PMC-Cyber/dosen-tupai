@@ -1,6 +1,6 @@
-# Professor
+# dosen tupai
 <p align="center">
-  <img src="https://1.bp.blogspot.com/-VOF740e1pzs/YJJZV54I6rI/AAAAAAAAUDE/j_GlPxBeoBECXPSdO3UAYSLcaaGoLc-CACLcBGAsYHQ/s16000/Screenshot_20210505_135832.jpg" width="470" height="250">
+  <img src="https://i.ibb.co/3WhvW61/IMG-20231217-192919.jpg" width="470" height="250">
 </p>
 All in One Information Gathering tool for Termux.
 
@@ -10,19 +10,19 @@ All in One Information Gathering tool for Termux.
 
 `$ pkg install git`
 
-`$ git clone https://github.com/termuxprofessor/professor`
+`$ git clone https://github.com/PMC-Cyber/dosen-tupai`
 
-`$ cd professor`
+`$ cd dosen-tupai`
 
-`$ chmod +x professor.sh`
+`$ chmod +x dosen.sh`
 
-`$ bash professor.sh`
+`$ bash dosen.sh`
 
 ## • Subscribe our YouTube channel for video tutorial.
-* https://www.youtube.com/c/TermuxProfessorYT
+* 
 
 ## • Our Website for more termux tools.
-* https://www.getredeemcode.com
+* 
 ---
 
 <p align="center">

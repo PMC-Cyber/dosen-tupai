@@ -499,9 +499,9 @@ echo $CY" ═╩╝ ╚═╝ ╚═╝ ╚═╝ ╝╚╝   ╩ ╩ ╚═╝ 
 echo $CY"                 ┏┳┓ ┳ ┳ ┏━┓ ┏━┓ ┳   ┏━┓ ┳━┓ ┏━┓ ┏━┓ ┏┓┏  ${O}   ┃┓ ◯ ┏┃  ╭┫┗┗┃"
 echo $G"    [ ${W}• • •${G} ]  ${CY}   ┃  ┃ ┃ ┣━┛ ┣━┫ ┃   ┃ ┳ ┣┳┛ ┣┫  ┣┫  ┃┃┃  ${O}   ┃╰┳┳┳╯┃  ┃┃╭━┃"
 echo $CY"                  ┻  ┗━┛ ┻   ┻ ┻ ┻   ┗━┛ ┻┗━ ┗━┛ ┗━┛ ┛┗┛ ${O}  ╭━┻╮┗┻┛╭┻━╮╰┳━┳╯  "
-echo $G" SELAMAT DATANG DI MENU DOSEN DI GUNAKAN DENGAN BAIK OKY   ${O} ┃  ╰━━━╯  ╰━┛ ┃ ${CY} ${__version__}"     
+echo $G" SELAMAT DATANG DI MENU DOSEN DI GUNAKAN DENGAN BAIK OKY  ${O} ┃  ╰━━━╯  ╰━┛ ┃ ${CY} ${__version__}"     
 echo " "
-echo -e "\e[1;91m           [\e[1;96m•\e[1;91m] YouTube =  \e[1;96m"
+echo -e "\e[1;91m           [\e[1;96m•\e[1;91m] YouTube =  \e[1;96m PMC CYBER"
 echo -e "\e[1;91m           [\e[1;96m•\e[1;91m] Ahtour  =  \e[1;96mMr./B7"
 echo ""
 

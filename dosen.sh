@@ -1,5 +1,5 @@
 clear
-
+__version__="0.5"
 R="$(printf '\033[31m')"  
 G="$(printf '\033[32m')"  
 O="$(printf '\033[33m')"  
@@ -499,7 +499,7 @@ echo $CY" ═╩╝ ╚═╝ ╚═╝ ╚═╝ ╝╚╝   ╩ ╩ ╚═╝ 
 echo $CY"                 ┏┳┓ ┳ ┳ ┏━┓ ┏━┓ ┳   ┏━┓ ┳━┓ ┏━┓ ┏━┓ ┏┓┏  ${O}   ┃┓ ◯ ┏┃  ╭┫┗┗┃"
 echo $G"    [ ${W}• • •${G} ]  ${CY}   ┃  ┃ ┃ ┣━┛ ┣━┫ ┃   ┃ ┳ ┣┳┛ ┣┫  ┣┫  ┃┃┃  ${O}   ┃╰┳┳┳╯┃  ┃┃╭━┃"
 echo $CY"                  ┻  ┗━┛ ┻   ┻ ┻ ┻   ┗━┛ ┻┗━ ┗━┛ ┗━┛ ┛┗┛ ${O}  ╭━┻╮┗┻┛╭┻━╮╰┳━┳╯  "
-echo $O"                                                        ┃  ╰━━━╯  ╰━┛ ┃  "     
+echo $O"                                                           ┃  ╰━━━╯  ╰━┛ ┃ ${CY} ${__version__}"     
 echo $G" SELAMAT DATANG DI MENU DOSEN DI GUNAKAN DENGAN BAIK OKY TEMAN"
 echo " "
 echo -e "\e[1;91m           [\e[1;96m•\e[1;91m] YouTube =  \e[1;96m"

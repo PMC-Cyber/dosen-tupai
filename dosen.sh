@@ -493,17 +493,17 @@ menudosen() {
   clear
 check_status
 echo -e "\e[1;93m"
-echo " ╔╦╗ ╔═╗ ╔═╗ ╔═╗ ╔╗╔ ┈ ╦┈╦ ╦┈╦ ╔╗╔ ╔╦╗ ╔═╗ ╦═╗  "
-echo " ┈║║ ║┈║ ╚═╗ ║╣┈ ║║║ ┈ ╠═╣ ║┈║ ║║║ ┈║┈ ║╣┈ ╠╦╝  "
-echo " ═╩╝ ╚═╝ ╚═╝ ╚═╝ ╝╚╝ ┈ ╩┈╩ ╚═╝ ╝╚╝ ┈╩┈ ╚═╝ ╩╚═  "
-echo "                 ┏┳┓ ┳┈┳ ┏━┓ ┏━┓ ┳ ┈ ┏━┓ ┳━┓ ┏━┓ ┏━┓ ┏┓┏  "
-echo "    [ • • • ]    ┈┃┈ ┃┈┃ ┣━┛ ┣━┫ ┃ ┈ ┃┈┳ ┣┳┛ ┣┫┈ ┣┫┈ ┃┃┃  "
-echo "                 ┈┻┈ ┗━┛ ┻┈┈ ┻┈┻ ┻ ┈ ┗━┛ ┻┗━ ┗━┛ ┗━┛ ┛┗┛  "
-echo -e "\e[1;92m"
-echo " SELAMAT DATANG DI MENU DOSEN DI GUNAKAN DENGAN BAIK OKY TEMAN"
+echo $CY" ╔╦╗ ╔═╗ ╔═╗ ╔═╗ ╔╗╔   ╦ ╦ ╦ ╦ ╔╗╔ ╔╦╗ ╔═╗ ╦═╗  ${O}          ╭━━╮   ╭━━╮      "
+echo $CY"  ║║ ║ ║ ╚═╗ ║╣  ║║║   ╠═╣ ║ ║ ║║║  ║  ║╣  ╠╦╝    ${O}        ┃╭╮┣━━━┫╭╮┃n╭┳┳╮  "
+echo $CY" ═╩╝ ╚═╝ ╚═╝ ╚═╝ ╝╚╝   ╩ ╩ ╚═╝ ╝╚╝  ╩  ╚═╝ ╩╚═    ${O}        ╰━┳╯${R}▆ ▆${O}╰┳━╯ ┃┃┃┃   "
+echo $CY"                 ┏┳┓ ┳ ┳ ┏━┓ ┏━┓ ┳   ┏━┓ ┳━┓ ┏━┓ ┏━┓ ┏┓┏  ${O}   ┃┓ ◯ ┏┃  ╭┫┗┗┃"
+echo $G"    [ ${W}• • •${G} ]  ${CY}   ┃  ┃ ┃ ┣━┛ ┣━┫ ┃   ┃ ┳ ┣┳┛ ┣┫  ┣┫  ┃┃┃  ${O}   ┃╰┳┳┳╯┃  ┃┃╭━┃"
+echo $CY"                  ┻  ┗━┛ ┻   ┻ ┻ ┻   ┗━┛ ┻┗━ ┗━┛ ┗━┛ ┛┗┛ ${O}  ╭━┻╮┗┻┛╭┻━╮╰┳━┳╯  "
+echo $O"                                                                 ┃  ╰━━━╯  ╰━┛ ┃  "     
+echo $G" SELAMAT DATANG DI MENU DOSEN DI GUNAKAN DENGAN BAIK OKY TEMAN"
 echo " "
-echo -e "\e[1;91m           [\e[1;96m*\e[1;91m] YouTube =  \e[1;96m"
-echo -e "\e[1;91m           [\e[1;96m*\e[1;91m] Ahtour  =  \e[1;96mMr./B7"
+echo -e "\e[1;91m           [\e[1;96m•\e[1;91m] YouTube =  \e[1;96m"
+echo -e "\e[1;91m           [\e[1;96m•\e[1;91m] Ahtour  =  \e[1;96mMr./B7"
 echo ""
 
 printf "\n"                                                                   |

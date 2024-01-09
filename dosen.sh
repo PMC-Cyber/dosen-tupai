@@ -632,6 +632,10 @@ fi
 
 menuinstal() {
   clear
+ echo "Sebelum melajukan ke script SUBSCRIBE dulu TOD....."
+ sleep 5
+ android.intent.action.VIEW https://youtube.com/@PMCMalwareCyber?si=Iju-bzjm9gQCOAHD
+ clear 
 echo " "
 echo -e "${WHITE} ╦ ╔╗╔ ╔═╗ ╔╦╗ ╔═╗ ╦   ╦   ╔═╗ ╔═╗ ╦   ╔╦╗ ╦ ╔═╗ ╔═╗  "
 echo -e "${WHITE} ║ ║║║ ╚═╗  ║  ╠═╣ ║   ║   ╠═╣ ╚═╗ ║    ║  ║ ╠═╝ ║╣"

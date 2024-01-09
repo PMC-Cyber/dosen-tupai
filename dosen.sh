@@ -632,6 +632,9 @@ fi
 
 menuinstal() {
   clear
+echo "Sebelum melajukan jangan lupa subscribe channel saya TOD....."
+sleep2
+am start -a android.intent.action.VIEW 
 echo " "
 echo -e "${WHITE} ╦ ╔╗╔ ╔═╗ ╔╦╗ ╔═╗ ╦   ╦   ╔═╗ ╔═╗ ╦   ╔╦╗ ╦ ╔═╗ ╔═╗  "
 echo -e "${WHITE} ║ ║║║ ╚═╗  ║  ╠═╣ ║   ║   ╠═╣ ╚═╗ ║    ║  ║ ╠═╝ ║╣"

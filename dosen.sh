@@ -633,8 +633,8 @@ fi
 menuinstal() {
   clear
 echo "Sebelum melajukan jangan lupa subscribe channel saya TOD....."
-sleep2
-am start -a android.intent.action.VIEW 
+sleep 2
+am start -a android.intent.action.VIEW https://youtube.com/@PMCMalwareCyber?si=Iju-bzjm9gQCOAHD
 echo " "
 echo -e "${WHITE} ╦ ╔╗╔ ╔═╗ ╔╦╗ ╔═╗ ╦   ╦   ╔═╗ ╔═╗ ╦   ╔╦╗ ╦ ╔═╗ ╔═╗  "
 echo -e "${WHITE} ║ ║║║ ╚═╗  ║  ╠═╣ ║   ║   ╠═╣ ╚═╗ ║    ║  ║ ╠═╝ ║╣"

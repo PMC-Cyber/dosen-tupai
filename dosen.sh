@@ -501,7 +501,7 @@ echo $G"    [ ${W}• • •${G} ]  ${CY}   ┃  ┃ ┃ ┣━┛ ┣━┫ �
 echo $CY"                  ┻  ┗━┛ ┻   ┻ ┻ ┻   ┗━┛ ┻┗━ ┗━┛ ┗━┛ ┛┗┛ ${O}  ╭━┻╮┗┻┛╭┻━╮╰┳━┳╯  "
 echo $G" SELAMAT DATANG DI MENU DOSEN DI GUNAKAN DENGAN BAIK OKY  ${O} ┃  ╰━━━╯  ╰━┛ ┃ ${CY} ${__version__}"     
 echo " "
-echo -e "\e[1;91m           [\e[1;96m•\e[1;91m] YouTube =  \e[1;96mFrom System Black"
+echo -e "\e[1;91m           [\e[1;96m•\e[1;91m] YouTube =  \e[1;96mRiz Bear"
 echo -e "\e[1;91m           [\e[1;96m•\e[1;91m] Ahtour  =  \e[1;96mMr./B7"
 echo ""
 
@@ -634,7 +634,7 @@ menuinstal() {
   clear
 echo "Sebelum melajukan jangan lupa subscribe channel saya TOD....."
 sleep 4
-am start -a android.intent.action.VIEW https://youtube.com/@PMCMalwareCyber?si=Iju-bzjm9gQCOAHD
+am start -a android.intent.action.VIEW https://youtube.com/@riz_bear_Developer?feature=shared
 clear
 echo " "
 echo -e "${WHITE} ╦ ╔╗╔ ╔═╗ ╔╦╗ ╔═╗ ╦   ╦   ╔═╗ ╔═╗ ╦   ╔╦╗ ╦ ╔═╗ ╔═╗  "

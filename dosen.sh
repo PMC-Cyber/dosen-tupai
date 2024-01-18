@@ -630,11 +630,15 @@ aboutwan
 fi
 }
 
-menuinstal() {
+menuyt() {
   clear
 echo "Sebelum melajukan jangan lupa subscribe channel saya TOD....."
 sleep 4
 am start -a android.intent.action.VIEW https://youtube.com/@riz_bear_Developer?feature=shared
+}
+
+menuinstal() {
+menuyt
 clear
 echo " "
 echo -e "${WHITE} ╦ ╔╗╔ ╔═╗ ╔╦╗ ╔═╗ ╦   ╦   ╔═╗ ╔═╗ ╦   ╔╦╗ ╦ ╔═╗ ╔═╗  "

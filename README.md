@@ -1,7 +1,6 @@
-
+<p align="center"><img src="https://i.ibb.co/6gXBZfL/20240203-122725.jpg" /></p>
 <p align="center">dosen tupai Informasion
 <p align="center">A beginners friendly, Automated Basic Tool.</p>
-<p align="center"><img src="https://media.giphy.com/media/3oEjHQxSq1ZSBXZgeQ/giphy.gif" alt="animated" /></p>
 
 ## Developer, Ransomware, Programer & Cyber Expert!
 - 🌱 I’m currently learning everything 🤣
